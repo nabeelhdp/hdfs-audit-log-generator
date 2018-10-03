@@ -4,7 +4,5 @@ Script to generate fake events for HDFS audit logs. Useful to simulate streaming
 
 Run as
 ```
-
 python fake.py
-
 ```
