@@ -3,8 +3,8 @@
 Script to generate fake events for HDFS audit logs. Useful to simulate streaming data for Nifi/Kafka testing etc. 
 
 Run as
-{code}
+```
 
 python fake.py
 
-
+```
